@@ -41,8 +41,11 @@ Prefer no installer? Each release also has a **portable** zip.
 | Flip finder that checks real demand | 14-day averages and sales-per-day estimates |
 | Bag post scan: post, vendor or disenchant, with AH deposits counted | Prices for your own AH and Blackwater |
 | Blackwater-aware prices, cut and My Auctions checks | Installs the addon and keeps it up to date |
-| Disenchant values and a disenchant window (enchanters) | Updates itself quietly in the background |
-| Shopping lists, gold dashboard and ledger | Runs in the tray, starts with Windows if you like |
+| Disenchant values, a disenchant window and history (enchanters) | Community drop rates from players' shared loot |
+| Where items drop or grow, marked on the world map | Updates itself quietly in the background |
+| Cost to make in tooltips, for anything your characters craft | Runs in the tray, starts with Windows if you like |
+| Answers `!pc [item]` price checks from friends and guildmates | |
+| Shopping lists, fast multi-buy, gold dashboard and ledger | |
 
 The addon also works by itself without the app, using your own AH scans.
 
@@ -60,8 +63,10 @@ in your WoW folder and aren't touched. To remove the addon too, delete
 
 ## Privacy
 
-The app sends only a random install ID, its version and the platform. Nothing from your game account, characters or
-gold is sent. See [foreverprofiteer.com/privacy.html](https://foreverprofiteer.com/privacy.html).
+The app sends a random install ID, its version and the platform. It also shares **anonymous loot data** (which mobs
+you looted, what they dropped, the coin on them) to build community drop rates. That's on by default and one click to turn
+off in Settings; you get everyone's drop rates either way. Nothing from your game account, characters, realm or gold is
+sent. See [foreverprofiteer.com/privacy.html](https://foreverprofiteer.com/privacy.html).
 
 ## Problems?
 
