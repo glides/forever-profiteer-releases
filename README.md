@@ -6,7 +6,7 @@
 
 <p align="center">
   Gold-making for <b>World of Warcraft: Forever</b>: an addon plus a small desktop app that brings it<br>
-  hourly auction prices for every US Forever auction house, including Blackwater.
+  hourly prices for every Forever auction house in the US, EU, Korea and Taiwan, Blackwater included.
 </p>
 
 <p align="center">
@@ -37,15 +37,15 @@ Prefer no installer? Each release also has a **portable** zip.
 
 | Addon | Desktop app |
 | --- | --- |
-| Tooltips with market value, recent lows and sales per day | Hourly price snapshots for every US Forever auction house |
-| Flip finder that checks real demand | 14-day averages and sales-per-day estimates |
-| Bag post scan: post, vendor or disenchant, with AH deposits counted | Prices for your own AH and Blackwater |
-| Blackwater-aware prices, cut and My Auctions checks | Installs the addon and keeps it up to date |
-| Disenchant values, a disenchant window and history (enchanters) | Community drop rates from players' shared loot |
-| Where items drop or grow, marked on the world map | Updates itself quietly in the background |
-| Cost to make in tooltips, for anything your characters craft | Runs in the tray, starts with Windows if you like |
+| Tooltips with market value, sales per day, disenchant value and cost to make | Hourly prices for every Forever auction house in the US, EU, Korea and Taiwan |
+| Search that opens auctions in place, favourites, range buying and one-click shopping lists | Two weeks of history and sales-per-day estimates |
+| Flips (faction and Blackwater), AH Disenchants, AH Vendors, Craft & DE, Craft & Sell | Your faction's AH, the other faction's and Blackwater, for your region |
+| Farm tab with spawns on the world map, and a Mobs window ranked by gold per kill | Community drop rates for mobs, herbs, ore, skins and fishing |
+| Bag post scan: post, vendor or disenchant, with AH deposits counted | Installs the addon and keeps it up to date |
+| My Auctions: undercut checks, cancel queue, what's waiting in the mail | Updates itself quietly in the background |
+| Gold dashboard and ledger across every character | Runs in the tray, starts with Windows if you like |
+| Class and profession pages: disenchanting, cooldowns, tips, gathering, pickpocketing | |
 | Answers `!pc [item]` price checks from friends and guildmates | |
-| Shopping lists, fast multi-buy, gold dashboard and ledger | |
 
 The addon also works by itself without the app, using your own AH scans.
 
@@ -63,9 +63,9 @@ in your WoW folder and aren't touched. To remove the addon too, delete
 
 ## Privacy
 
-The app sends a random install ID, its version and the platform. It also shares **anonymous loot data** (which mobs
-you looted, what they dropped, the coin on them) to build community drop rates. That's on by default and one click to turn
-off in Settings; you get everyone's drop rates either way. Nothing from your game account, characters, realm or gold is
+The app sends a random install ID, its version and the platform. It also shares **anonymous loot and gathering data** (which
+mobs, herbs, veins and fishing spots you looted, what they gave, the coin on them) to build community drop rates. That's on by default and one click to turn
+off in Settings; you get everyone's rates either way. Nothing from your game account, characters, realm or gold is
 sent. See [foreverprofiteer.com/privacy.html](https://foreverprofiteer.com/privacy.html).
 
 ## Problems?
