@@ -38,7 +38,7 @@ Prefer no installer? Each release also has a **portable** zip.
 | Addon | Desktop app |
 | --- | --- |
 | Tooltips with market value, sales per day, disenchant value and cost to make | Hourly prices for every Forever auction house in the US, EU, Korea and Taiwan |
-| Search that opens auctions in place, favourites, range buying and one-click shopping lists | Two weeks of history and sales-per-day estimates |
+| Search that opens auctions in place, favourites, range buying and one-click shopping lists | Two weeks of history, sales per day, sell rates, price trends, and prices per "of the X" gear version |
 | Flips (faction and Blackwater), AH Disenchants, AH Vendors, Craft & DE, Craft & Sell | Your faction's AH, the other faction's and Blackwater, for your region |
 | Farm tab with spawns on the world map, and a Mobs window ranked by gold per kill | Community drop rates for mobs, herbs, ore, skins and fishing |
 | Bag post scan: post, vendor or disenchant, with AH deposits counted | Installs the addon and keeps it up to date |
